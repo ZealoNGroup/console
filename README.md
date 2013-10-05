@@ -1,4 +1,1 @@
-console
-=======
-
-console js php
+Debug console for php...
